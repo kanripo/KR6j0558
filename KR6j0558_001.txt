@@ -1,26 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:45.109339
-#+TITLE: 佛說呪齒經
-#+PROPERTY: CBETA_ID T21n1327
-#+PROPERTY: ID KR6j0558
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1327
-#+PROPERTY: VOL 21
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6j0558_T_001-0491b> 
+#+TITLE: 佛說齒經
+#+DATE: 2015-08-30 20:34:45.307727
 #+PROPERTY: JUAN 1
-¶
-No.1327¶
-
- 佛說呪齒經¶
-¶
-東晉竺曇無蘭譯¶
-
-南無佛南無法南無比丘僧南無舍利弗大目¶
-乾連比丘。南無覺意。名聞邊北方健陀摩¶
-呵衍山。彼有虫王名差吼無。在某牙齒¶
-中止。今當遣使者無敢食某牙。及牙根中牙¶
-根中牙邊虫。不即下器中頭破作七分如鳩¶
-羅勤蟮。梵天勸是呪南無佛。令我所呪皆從¶
-如願。¶
-佛說呪齒經
+#+PROPERTY: ID KR6j0558
+#+PROPERTY: SOURCE 高麗藏 東國大學校影印本
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS TKD
+佛說呪齒經¶¶(東晉竺曇無蘭
+譯)¶南無佛南無法南無比丘僧南
+無舎摩尼羅亶経第七
+張讃
+<pb:KR6j0558_TKD_13-1152b>
+利弗大目¶亁連比丘南無覺意名聞
+邊北方健陀摩¶呵衍山彼有虫王名
+差吼無在某牙齒¶中止今當遣使者
+無敢食某牙及牙根中牙¶根中牙邊
+虫不卽下噐中頭破作七分如鳩¶羅
+勤蟮梵天勸是呪南無佛令我所呪
