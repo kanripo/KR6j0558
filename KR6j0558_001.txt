@@ -1,26 +1,25 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:45.109339
+#+DATE: 2015-08-30 20:34:45.794462
 #+TITLE: 佛說呪齒經
 #+PROPERTY: CBETA_ID T21n1327
 #+PROPERTY: ID KR6j0558
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1327
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6j0558_T_001-0491b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1327¶
-
- 佛說呪齒經¶
+No. 1327¶
+佛說呪齒經¶
 ¶
-東晉竺曇無蘭譯¶
+東晉西域三藏竺曇無蘭譯¶
 
 南無佛南無法南無比丘僧南無舍利弗大目¶
-乾連比丘。南無覺意。名聞邊北方健陀摩¶
-呵衍山。彼有虫王名差吼無。在某牙齒¶
-中止。今當遣使者無敢食某牙。及牙根中牙¶
+揵連比丘。南無覺意。名聞邊北方健陀摩¶
+訶衍山。彼有虫名羞吼無。在某牙齒¶
+中止。今當遣使者無敢食其牙。及牙根中牙¶
 根中牙邊虫。不即下器中頭破作七分如鳩¶
-羅勤蟮。梵天勸是呪南無佛。令我所呪皆從¶
+羅勒蟮。梵天勸是呪南無佛。令我所呪皆從¶
 如願。¶
 佛說呪齒經
