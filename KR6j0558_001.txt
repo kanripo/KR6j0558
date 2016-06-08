@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:45.109339
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:27
 #+TITLE: 佛說呪齒經
 #+PROPERTY: CBETA_ID T21n1327
 #+PROPERTY: ID KR6j0558
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1327
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0558_T_001-0491b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1327¶
-
- 佛說呪齒經¶
+No. 1327¶
+佛說呪齒經¶
 ¶
 東晉竺曇無蘭譯¶
 
